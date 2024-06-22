@@ -1,0 +1,53 @@
+/* Start Premium Plus Properties */
+div.monthly {
+    width: 300px;
+    height: 300px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 325px;
+    left: 100px;
+}
+
+div.annual {
+    width: 300px;
+    height: 300px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 325px;
+    left: 535px;
+}
+
+div.lifetime {
+    width: 300px;
+    height: 300px;
+    background: white;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 325px;
+    left: 950px;
+}
+
+h6 {
+    font-size: 2.5em;
+}
+/* End Premium Plus Properties */
+
+/* Start Footer Properties*/
+footer#premiumplus {
+    width: 100%;
+    height: 190px;
+    background: #172035;
+    position: absolute;
+    top: 650px;
+    left: 0;
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin-top: 32px;
+    font-size: 1em;
+}
+/* End Footer Properties*/
